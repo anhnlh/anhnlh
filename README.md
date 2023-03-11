@@ -18,7 +18,7 @@ Amazon Web Services, Google Cloud Services, Jupyter Notebooks
 Password protected of course, but it's hosted on a Digital Ocean Droplet (virtual machine) and
 reverse proxying via nginx to expose the IDEs to the domain. I'm currently hosting RStudio,
 JupyterLab, and code-server on the domain.
-- [Health Website from Hackathon](https://github.com/anhnlh/MnT_Health_Website): project from the 
+- [HealthHacks](https://github.com/anhnlh/MnT_Health_Website): project from the 
 M&T's Meet & Hack 2022 that my team won first place in the Health track.
 - [Sudoku Solver 3000](https://github.com/anhnlh/SudokuSolver): Java application with GUI built with
 JavaFX that uses the backtracking algorithm to solve the Sudoku puzzle. Includes features to
