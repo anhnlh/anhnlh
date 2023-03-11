@@ -1,4 +1,3 @@
-[under construction]
 ## Hey there 👋 , I am Anh Nguyen
 ### 4th year BS Computer Science and Economics at [RIT](https://rit.edu) 
 
