@@ -14,8 +14,7 @@ And a full time opportunity starting January 2025.
 Amazon Web Services, Google Cloud Services, Jupyter Notebooks
 
 ### Projects
-- Personal Cloud Coding Website: hosted at [anhs-jupyter.studio](https://anhs-jupyter.studio). 
-Password protected of course, but it's hosted on a Digital Ocean Droplet (virtual machine) and
+- Personal Cloud Coding Website: Hosted on a Digital Ocean Droplet (virtual machine) and
 reverse proxying via nginx to expose the IDEs to the domain. I'm currently hosting RStudio,
 JupyterLab, and code-server on the domain.
 - [HealthHacks](https://github.com/anhnlh/MnT_Health_Website): project from the 
@@ -28,19 +27,3 @@ manually create custom boards to solve.
 ### Contact
 - Connect and message me on [Linkedin](https://linkedin.com/in/anhnlh)
 - Send an email to aln4739@rit.edu
-
-
-<!--
-**anhnlh/anhnlh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
