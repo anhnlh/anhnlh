@@ -1,5 +1,5 @@
 ## Hey there 👋 , I am Anh Nguyen
-### 4th year BS Computer Science at [RIT](https://rit.edu) 
+### B.S. Computer Science at [RIT](https://rit.edu) 
 
 **Looking for:** a Software Engineering, Machine Learning, or Data Science internship for Spring 2024.
 And a full time opportunity starting January 2025.
