@@ -1,7 +1,7 @@
 ## Hey there 👋 , I am Anh Nguyen
 ### B.S. Computer Science at [RIT](https://rit.edu) 
 
-**Looking for:** a Software Engineering, Machine Learning, or Data Science internship for Spring 2024.
+**Looking for:** a Software Engineering, Machine Learning, or Data Science internship for Fall 2023/Spring 2024.
 And a full time opportunity starting January 2025.
 
 **Currently learning:** Rust
