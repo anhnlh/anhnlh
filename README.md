@@ -21,7 +21,7 @@ JupyterLab, and code-server on the domain.
 M&T's Meet & Hack 2022 that my team won first place in the Health track.
 - [Sudoku Solver 3000](https://github.com/anhnlh/SudokuSolver): an MVC Java application built with
 JavaFX using the backtracking algorithm to solve the Sudoku puzzle. Includes features to create custom boards to solve manually.
-- [LoFiBeats](https://anhnlh.com/projects/lofibeats): music website consisting of songs scraped using the Spotify
+- [LoFiBeats](https://projects.anhnlh.com/lofibeats): music website consisting of songs scraped using the Spotify
 API where users can create playlists, simulate playing songs, follow other users, and explore popular genres and songs
 publicly or among their friends. Uses ASP.NET Core for the full-stack development and PostgreSQL for the database.
 
